@@ -5,69 +5,26 @@ Grill Kitchen is Hotel website which presents the services provided by the hotel
 ## Microsoft Azure Services used in the project are:
 
 1.Microsoft Azure QnA maker.\
-2.Microsoft Azure Web App
+2.Microsoft Azure Static Web App
 
 ### Use of QnA maker: 
 -QnA Maker is a free, easy-to-use, REST API- and web-based service that trains AI to respond to users' questions in a more natural, conversational way.\
--I have used this s
+-I have used this azure service to help the customers by providing detail about the hotel, food information,etc.\
+-I have created a custom knowledge base containing the answers of questions like "What is special in chat?" ,"What are your services?",etc.\
+### GrillBot:
+![image](https://user-images.githubusercontent.com/86558178/151703631-ccf549ec-abf0-4639-8387-b986e4121007.png)\
+![image](https://user-images.githubusercontent.com/86558178/151703578-7e334655-e652-432e-9219-a062c554ed40.png)
+![image](https://user-images.githubusercontent.com/86558178/151703643-e78297a2-8582-4e6d-854e-0c6ba63a522b.png)\
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Use of Static Web App : 
+-I have used Azure Static Web App to Deploy my website.
+![image](https://user-images.githubusercontent.com/86558178/151703846-a09fde2a-ac0f-4533-a016-c717307b6237.png)
+![image](https://user-images.githubusercontent.com/86558178/151703859-fb75ad14-4cd7-4eeb-84f9-8065e2b149bd.png)
+![image](https://user-images.githubusercontent.com/86558178/151703870-350388c6-e7eb-49af-bae2-db7fd6ccf9f9.png)
 
-### `npm test`
+### Grill Kitchen - Website Link:
+https://brave-mud-077cb1610.1.azurestaticapps.net
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
