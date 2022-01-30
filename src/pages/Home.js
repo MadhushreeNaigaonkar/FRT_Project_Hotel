@@ -368,8 +368,8 @@ export default class Home extends Component {
                 <div id="Question">
                     <h2>Have A Question</h2>
                     <div >
-                        <iframe title='ChatBOt' src={`https://webchat.botframework.com/embed/qnahotel-bot?s=${API_KEY}`}
-                          width= '300px' min-height='700px'></iframe>
+                        <iframe title='ChatBOt' src={`https://webchat.botframework.com/embed/qnahotel-bot?s=A5c2a85oaiM.cdAbW96LYNh5U2MRJ6ipF8j9aV-j39uYqD1U_zZpt4k`}
+                          width= '300px' height='70%'></iframe>
                         
                     </div>
             </div>
