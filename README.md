@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+# Grill Kitchen 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Grill Kitchen is Hotel website which presents the services provided by the hotel.
 
-## Available Scripts
+## Microsoft Azure Services used in the project are:
 
-In the project directory, you can run:
+1.Microsoft Azure QnA maker.\
+2.Microsoft Azure Web App
 
-### `npm start`
+### Use of QnA maker: 
+-QnA Maker is a free, easy-to-use, REST API- and web-based service that trains AI to respond to users' questions in a more natural, conversational way.\
+-I have used this s
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
