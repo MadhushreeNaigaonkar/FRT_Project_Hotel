@@ -23,8 +23,6 @@ Grill Kitchen is Hotel website which presents the services provided by the hotel
 ![image](https://user-images.githubusercontent.com/86558178/151703859-fb75ad14-4cd7-4eeb-84f9-8065e2b149bd.png)
 ![image](https://user-images.githubusercontent.com/86558178/151703870-350388c6-e7eb-49af-bae2-db7fd6ccf9f9.png)
 
-### Grill Kitchen - Website Link:
-https://brave-mud-077cb1610.1.azurestaticapps.net
 
 
 ## Thank You.
